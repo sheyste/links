@@ -3,5 +3,5 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheyste&label=Profile%20views&color=0e75b6&style=flat" alt="sheyste" /> </p>
 
-- Video and Photo Editing: <a href="[https://twitter.com/sheystedev](https://sheyst-my.sharepoint.com/:f:/g/personal/sheyste_sheyst_onmicrosoft_com/EnsJehgtFRtBu_5lSz0wYGMBx7clPupf_QP-6Obggveulg?e=4xUkkR)" target="blank">OneDrive Link</a>
+- Video and Photo Editing: <a href="https://sheyst-my.sharepoint.com/:f:/g/personal/sheyste_sheyst_onmicrosoft_com/EnsJehgtFRtBu_5lSz0wYGMBx7clPupf_QP-6Obggveulg?e=4xUkkR" target="blank">OneDrive Link</a>
 

@@ -10,4 +10,4 @@
 - Others: <a href="" target="_blank">OneDrive Link</a>
 
 
-<footer align="center">&copy; 2024 sheyste.github.io</footer>
+<footer>&copy; 2024 sheyste.github.io</footer>

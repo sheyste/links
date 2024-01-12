@@ -5,7 +5,7 @@
 
 - Video and Photo Editing: <a href="https://sheyst-my.sharepoint.com/:f:/g/personal/sheyste_sheyst_onmicrosoft_com/EnsJehgtFRtBu_5lSz0wYGMBx7clPupf_QP-6Obggveulg?e=4xUkkR" target="_blank">OneDrive Link</a>
 
-- Games: <a href="" target="_blank">OneDrive Link</a>
+- Games: <a href="https://sheyst-my.sharepoint.com/:f:/g/personal/sheyste_sheyst_onmicrosoft_com/EuQoSJ-_eV1Kq3qIMTMlgcABdKM6Scfrea7LkxWMBTUz6g?e=kYjeyi" target="_blank">OneDrive Link</a>
 
 - Others: <a href="" target="_blank">OneDrive Link</a>
 

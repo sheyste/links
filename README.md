@@ -1,6 +1,5 @@
 <h1 align="center">My Shared File Links</h1>
 <h3 align="center">Stored in OneDrive</h3>
-<br><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheyste&label=Profile%20views&color=0e75b6&style=flat" alt="sheyste" /> </p>
 <br>

@@ -8,3 +8,6 @@
 - Games: <a href="" target="_blank">OneDrive Link</a>
 
 - Others: <a href="" target="_blank">OneDrive Link</a>
+
+
+<footer>&copy; 2024 sheyste.github.io</footer>
